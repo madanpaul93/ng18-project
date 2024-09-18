@@ -1,1 +1,0 @@
-import{$a as r,Pa as n,Qa as a,W as o,Ya as m}from"./chunk-NPQQNWL4.js";var c=(()=>{class e{static \u0275fac=function(t){return new(t||e)};static \u0275cmp=o({type:e,selectors:[["app-home"]],standalone:!0,features:[r],decls:2,vars:0,template:function(t,p){t&1&&(n(0,"p"),m(1,"home works!"),a())}})}return e})();export{c as HomeComponent};

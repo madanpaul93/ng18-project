@@ -1,1 +1,0 @@
-import{$a as r,Pa as o,Qa as i,W as n,Ya as a}from"./chunk-NPQQNWL4.js";var m=(()=>{class e{static \u0275fac=function(t){return new(t||e)};static \u0275cmp=n({type:e,selectors:[["app-client"]],standalone:!0,features:[r],decls:2,vars:0,template:function(t,l){t&1&&(o(0,"p"),a(1,"client works!"),i())}})}return e})();export{m as ClientComponent};
